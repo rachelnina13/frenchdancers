@@ -1,0 +1,14 @@
+{
+  "name": "frenchdancers",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/rachelnina13/frenchdancers.git",
+  "author": "rachelnina13 <rachelperso@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "serveur": "http-server -p 8000" 
+  }
+}
